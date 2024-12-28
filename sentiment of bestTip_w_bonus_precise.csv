@@ -1,0 +1,430 @@
+bestTip,sentiment_polarity,sentiment_subjectivity,total_bonus,con.precise
+"I kept charging more than necessary because I was setting the slider to my desired charge, instead of subtracting the charge I still had in the battery.",0.25,0.75,0.9,2
+"From what I remember the advice was already simple - charge, or don't charge. I can't come up with anything better, especially since I am sure I'm not the only one who will ignore it.
+
+I want to add something about the part below this, because there's no writing box there: Type B is too complicated and will cause some players (like me) to just give up or ignore the advice. The other rules here/instructions are already complex. Adding advice that is also complex is discouraging.",-0.024999999999999998,0.6578924162257497,0.0,2
+"The advice should remain as-is. It's highly effective, and people should follow it, trying to learn from it and incorporating it into their own game.",0.26666666666666666,0.7333333333333334,1.15,3
+Charge to 50% first stop.  Keep charges to under 50%.  Skip some charges.,0.25,0.3333333333333333,2.25,3
+Try not to run out of juice.,0.0,0.0,3.6,1
+Don't forget to take into account how much charge you have left when calculating how much charge you need for the next segment of the road.,0.1,0.1,2.6,1
+Watch how the charge and time vary over the possibilites.,0.0,0.0,1.9,3
+"Take the current amount of charge you have, and subtract that amount from the estimated maximum distance to the next stop, and try to charge only slightly more above the sum to guarantee that you'll have enough charge to arrive without spending an excess amount of time charging.",0.08333333333333333,0.4166666666666667,2.2,1
+"If the next segment is short, take a chance and see if you can make it without charging.",0.0,0.15,1.15,3
+"Keep charging around 50, the higher you go the less efficient charging is",0.04166666666666667,0.2833333333333333,2.15,2
+Make sure you are looking at the correct trip segment to base your decisions on.  I think I was sometimes looking at the next segment instead.,-0.10000000000000002,0.6296296296296297,1.9,3
+Always charge 100% at the start of the game.,-0.4,0.4,1.6,2
+Try to do more short charges than relying on full charges,0.2833333333333333,0.45,1.8,3
+Minimize time spent charging whenever possible.,-0.05,0.55,2.6,1
+always make sure you have more then enough gas or youll end up paying 300 points which put you far from the goal,0.275,0.7222222222222222,0.2,2
+"The tips provided to me were the easiest to understand, I'm not too sure how simpler to make it.",0.5,0.8888888888888888,2.25,3
+"Follow advice of the advice, try and memorize it. ",0.0,0.0,2.25,3
+Try an only get enough charge to go for the next two stops.,0.0,0.5,2.3,3
+"If traffic conditions aren't green (orange or red), lean way more towards the higher end of the possibility than you think you might (even if it's orange and you want to aim for for the middle).",0.11000000000000001,0.26,1.4,1
+"For single stops of ~50 or above: charge to the maximum possible travel time, maybe 1-2 lower if you're feeling dangerous. For shorter stops: combine them up to ~50-60 and undercut the combined max by a little, you have the option to charge again in the middle if you get unlucky with traffic on the first stop.",-0.08698979591836734,0.435374149659864,4.55,3
+Make sure you have enough charge to cover this and the next stop with traffic.,0.16666666666666666,0.46296296296296297,0.8,2
+Follow the a.i. advice.,0.0,0.0,1.8,3
+Take your time to calculate the distance/time before deciding to go on with your decision. At the very most charge at 50% and then calculate.,0.65,0.65,1.55,3
+I don't know.  I wish I would have really wrapped my head around the idea that the smaller charges weren't that bad.,-0.1666666666666666,0.45555555555555555,0.8,1
+Charge the minimum you can do at all stops,0.0,0.0,0.8,1
+"I think the advice given was perfectly fine. It helped me succeed as best as one can in this game. When I didn't have advice, I didn't do nearly as well, so there's nothing I coud recommend confidently.",0.32333333333333336,0.4866666666666667,2.65,3
+Charge for 2 low rounds in a row so that you save time,0.0,0.3,3.2,1
+"When the traffic might be high, I was less likely to """"stock up"""" on a charge, because it would take longer and I might likely have to stop and charge anyway.",-0.0016666666666666635,0.6516666666666666,2.45,1
+"Always charge more than you think you might need to barely make it, it is not worth the risk.",0.13333333333333333,0.2333333333333333,1.7,3
+advice on how increments of charging per minute would affect total time taken,0.0,0.75,2.25,3
+"Basically look at your current round, and the next round, determine if you can """"quickly"""" charge for both rounds, if not just charge enough for your current round.",-0.03333333333333334,0.375,2.65,1
+"""""You should charge a bit extra to avoid charging a lot again."""" I say this because we don't know the actual time added from the traffic so that 1-2% makes a huge difference in the end.",0.13333333333333336,0.3666666666666667,2.3,1
+"Look at the difference between the maximum time for each additional stop and add 30 minutes, then compare the charge necessary for each stop, if the time needed to charge for both stops is less than the time needed to charge just for the second stop plus 30 minutes then charge for both, if not charge just for the first stop.",0.020833333333333336,0.35,3.5,2
+pay attention to the energy,0.0,0.0,0.2,2
+I had no issue with the tips provided. Try to charge just enough to cover the next one or two exits.,0.0,0.25,2.6,1
+Recharge just enough to reach the maximum through 2 stops.  As long as the total is bellow 60 minutes maximum. When traveling between 2 stops under charge by 2-3%  since you are unlikely to hit maximum in both stops.,-0.1375,0.5375,4.7,2
+"Anticipate the time taking longer every time, rather than think you might get lucky with a low roll. Anticipate a high roll. ",0.16444444444444442,0.5577777777777778,1.35,2
+i dont have any,0.0,0.0,1.1,2
+each time you charge it costs 30 minutes plus the time it takes to charge. It's better to charge once for several road segments than to charge at each stop. It's better to charge when the battery is almost out.,0.3333333333333333,0.3333333333333333,1.15,2
+Only get the minimum gas required that you'll think you need to complete the trip is my best advice.,0.3666666666666667,0.5666666666666667,1.4,2
+Add up the time it would take to charge on top of how much overall time you have left in each road segment and add it to your overall time to see if it's worth it to stop,0.16,0.12,2.6,1
+Take advantage of the fast charging in the higher traffic segments.,0.225,0.55,2.5,1
+I think telling the player how to maximize their distance while minimizing their stops would be helpful.,0.0,0.0,0.8,3
+"I think the advice was right, I wouldn't change a thing.",0.2857142857142857,0.5357142857142857,1.3,3
+"Ensure you have enough battery capacity to cover multiple legs of the trip when stopping if they're below 50% combined. In addition, look ahead to the further stops. If you're going to come upon one where nearly the fully capacity will be used, it may be advantageous to charge closer to 50% now so when that time comes you will not need to charge as much.",0.06000000000000001,0.31999999999999995,3.95,2
+Charge and keep note of the next two stops and the amount of traffic.,0.0,0.0,2.65,3
+,,,1.0,1
+"If this is instead of the AI's advice, I can't really think of any. Just keep a close eye on your charge between rounds and try to roughly estimate how much you'll need and then , just to be safe, add a few extra percent onto that.",0.10000000000000002,0.25000000000000006,2.65,3
+Expect traffic times to be on the higher side of the range.,0.25,0.5,3.8,1
+"The most confusing part was taking quick charges for segments instead of just avoiding more stops.  It seemed to me, that the more I stopped, extra 30 minutes would cause it to be less productive.  I was wrong about that",0.10833333333333331,0.43333333333333335,1.55,3
+none,0.0,0.0,1.0,1
+i did very bad and noone should follow my advice,-0.9099999999999998,0.8666666666666667,0.0,2
+I thought it was fine and made sense the way it was.,0.4166666666666667,0.5,3.0,1
+look at everything involved.  take the few extra moments to calculate fully!,-0.1,0.1,2.95,3
+charge more than you think you need,0.5,0.5,0.4,2
+I think you should continue to show that advice but also you could add that the driver should make sure they use the advice on the right segment of the road.,0.39285714285714285,0.7123015873015872,0.9,1
+I think you should display an image or a video of the car in motion. This would make the game more fun.,0.13333333333333333,0.3666666666666667,0.0,3
+Charge for first two trips and pay attention to the colors of the line connecting the stops,0.25,0.3333333333333333,0.8,2
+"Take risks; also, you start at 0. ",0.0,0.0,2.45,1
+I would need to play this game more to get better at it ...,0.19999999999999998,0.4666666666666666,0.4,3
+I would say not to panic when you see upcoming trips that will take up a large chunk of time and instead focus on each stop as its own.,0.40714285714285714,0.7142857142857143,3.3,3
+Charge fully at the start of each round and keep an eye on how much time has elapsed,0.0,0.30000000000000004,1.95,1
+none,0.0,0.0,2.45,3
+none,0.0,0.0,0.6,2
+"To optimize your travel time, always plan your charging stops based on the upcoming traffic and distance. Charge just enough to cover the next segment if the total required charge is high, as charging slows down when the battery is fuller. This strategy helps you avoid unnecessary delays and prevents running out of charge mid-segment.",-0.06592592592592593,0.49648148148148147,2.3,2
+To provide how much percent needed to charge.,0.2,0.2,0.4,1
+"I usually combine stops that are smaller (>10 minute travel time) and fuel at one spot beforehand. Therefore, I can not waste time with charging at every single destination.",-0.055357142857142855,0.24107142857142858,3.9,3
+I think the tip that was shown was the best tip to be shown and can be used no matter what round.,0.4,0.35,2.3,1
+I would suggest that new players are reminded they can preview future stops by clicking on the colored line as I caught myself forgetting to do so during the first two rounds.,0.12878787878787878,0.3042929292929293,2.1,1
+recharge for the next trips rather than full charges,0.175,0.275,0.8,1
+I'd suggest you always try and charge but consider the time spent while charging,-0.1,0.1,0.0,1
+Cover multiple short segments with one charge (up to 2) but recharge for each long segment.,-0.016666666666666666,0.2333333333333333,3.7,2
+how to anticipate minimum % of charge needed to achieve destination,0.0,0.0,0.5,1
+"Honestly, I would just try to explain the rules with the time a bit better. Maybe with a highlighted graphic.",0.3666666666666667,0.6,1.55,1
+i think the tips displayed were good,0.7,0.6000000000000001,0.0,1
+The time it takes to charge is INDEPENDENT of the amount of battery left in the car. This is very crucial advice that I did not realize until a couple of rounds in.,0.0,0.375,3.4,1
+When the traffic is light it might save time to charge for 2 stops instead of one.,0.4,0.7,3.05,2
+You should charge enough to cover this stop and the next one.,0.0,0.25,2.15,1
+"I think how the advice is currently displayed is acceptable, I wouldn't tell people exactly what to charge to because then there wouldn't be any challenge to it. Type A advice would improve performance definitely because it tells you what to do, but type B serves as better advice. ",0.1875,0.4125,1.35,1
+Those tips were helpful but maybe suggesting how much time to charge would be helpful too.,0.2,0.2,0.4,2
+Indicate how much slower each 5% increase in charge is as the battery gets closer to 100%,0.2,0.2,3.05,3
+Look ahead to ensure that you charge at stops to have enough to minimize charges.,0.0,0.5,2.7,3
+Look ahead and see how best to group the stages into legs which require about 50% total charge.  This will balance the number of chargings and the charging times.,0.5,0.525,2.9,1
+I think the tips were fine,0.4166666666666667,0.5,0.4,2
+Advice and simpler directions,0.0,0.0,1.3,3
+Consider the first three segments to determine if you should charge enough to get through them.,0.125,0.41666666666666663,2.4,2
+"Trust the AI advice. Take time to ensure you don't run out of charge, since the penalty is high.",0.16,0.5399999999999999,1.4,3
+Overfill because trying to estimate what is just right will not get it.,0.2857142857142857,0.5357142857142857,0.3,2
+pay attention to the numbers and charge enough to avoid having to stop at the next segment.,0.0,0.25,0.3,1
+calculate and only charge to the bare minimum for red and green distances,-0.037500000000000006,0.35000000000000003,3.4,3
+Charge and take risks,0.0,0.0,2.4,1
+"I cannot comment as I did not spot the advise, sorry.",-0.5,1.0,0.0,2
+"Try to charge for as many segments as you can while keeping the amount charge at or below 50%.
+
+One time I think I got screwed in the practice. It seemed the segment would take a certain amount of charge at most, like 47%, and so I charge to 47%. It ended up taking exactly 47% and I got dinged for making it but arriving with 0% so maybe always have 1% in reserve.",0.3660714285714286,0.45535714285714285,4.2,1
+"To make sure that I don't run out, I charge just enough to get to the next stop",0.16666666666666666,0.46296296296296297,1.2,3
+Charging 50% or less is faster,-0.16666666666666666,0.06666666666666667,2.0,2
+"When you charge, try to charge enough to make multiple trips. ",0.0,0.25,3.3,3
+Listen to what AI suggests.,0.0,0.0,0.9,3
+Charging when the battery is the lowest so you don't have to stop the first two stops,0.25,0.3333333333333333,1.9,1
+"I think having the AI give a specific range to add to the car's charge would have been helpful instead of just saying """"extra"""". Or if the AI knew what the traffic time would be for future stops, then that would have been helpful too. I don't know if the Rationale bit helped as much. ",0.05,0.1375,0.9,2
+What was shown is good.,0.7,0.6000000000000001,1.2,2
+"You should try to go around 50 percent or so when you need a """"big"""" fuel intake. If you take anymore than that, precious time will be wasted. Also, you shouldn't go much less than 30 otherwise time is also being wasted as you need to wait a minimum amount of time (which is large) to even start a small amount of charge.",-0.014625850340136057,0.28503401360544217,1.4,1
+N/a,0.0,0.0,0.6,3
+The exact charge to be done.,0.25,0.25,1.1,1
+"Maybe show the maximum distance you can travel on a 100% charge and the expected rate of battery depletion based on traffic.  Like stuck in traffic drains the battery at a set rate lowering the actual miles (km) you will travel on said 100% charge.  It would still have a variable range just as traffic will add 10 - 20 minutes, intead it depletes x% of battery per minute in traffic.",-0.05,0.25,1.5,3
+Always have more battery person than the actual time travel,0.25,0.3,0.4,2
+The advice was actually a good. Just calculate the distance plus the actual time to know how to and when not to recharge.,0.35,0.35000000000000003,1.6,3
+That they should stop for charge,0.0,0.0,0.5,1
+Crunch the numbers.,0.0,0.0,0.0,1
+"Fill up at the start. Then only fill up if you don't have enough charge to cover the worst case. If you need to charge, charge just enough to cover the worst case. In hindsight, it might be best to charge more than this though to minimize future charges.",-0.0625,0.615625,2.1,2
+"Don’t underestimate how much charge you think will get you through the route, always give yourself enough to finish, even if it takes a little longer",0.00416666666666667,0.39999999999999997,1.4,2
+the game play is okay the only thing is if there can be more improvement on the graphical representation,0.15,0.6,2.8,1
+take the advice!,0.0,0.0,0.0,1
+You should charge this percentage at this stop,0.0,0.0,0.1,1
+"If needing to charge and sum of multiple stops including current charge level is over 50, only charge the exact amount needed to cover the current stop. ",0.05,0.41,3.5,3
+the advice can be more specific,0.25,0.3125,1.5,2
+"""""If you charge extra at this stop enough to cover the travel through this segment and the next, you would save x amt more time than...""""",0.125,0.275,3.4,1
+dont know,0.0,0.0,0.0,2
+I think it is advisable to follow close on the advice and also minimize the number of times u charge,0.0,0.0,0.3,2
+This is NOTHING like a real EV don't try to use your experience,0.2,0.30000000000000004,1.5,2
+You could provide actual charging numbers instead.,0.0,0.1,2.1,2
+I didn't see what was shown but the best advice is summed up by the first three options in the earlier question on what strategy was used,0.4166666666666667,0.37777777777777777,4.4,1
+I calculated for next two stops to know how much to charge.,0.1,0.1,1.9,2
+"make sure to charge more then enough, the maximum traffic time might come to effect",0.3333333333333333,0.6296296296296297,0.3,2
+"Have none actually, others should use their head like I did with mine",0.0,0.1,1.2,3
+Charge sufficiently to cover trips.,0.0,0.0,1.3,1
+charge the amount they needed for the trip and add extra 5,0.0,0.1,1.0,3
+i think your help should start rom the beginning,0.0,0.0,0.7,3
+I believe the tips displayed in the round of games is good enough. it contains just the right amount of information needed.,0.1964285714285714,0.5089285714285714,2.1,3
+"Charging is faster when the battery is low and slower when it's high. By waiting until your battery is lower, you can benefit from quicker charging times. Running out of charge on the road triggers an emergency service that costs an extra 300 minutes. And also ensure you have enough charge for both the current and next stop which reduces the risk of depleting your battery mid-route. Planning your recharges to cover multiple stops helps maintain a smoother and more continuous journey, avoiding frequent interruptions.",0.08444444444444445,0.2933333333333333,3.9,1
+"do not over charge your car, charge to the required minutes to reach a stop",0.0,0.0,2.6,3
+make sure that you take into account the extra 30 min that just pulling over to charge takes.,0.25,0.4944444444444444,0.8,1
+Try and make as few stops as you can.,-0.2,0.1,2.7,3
+Charge just enough (and a tiny bit over...TINY!) to move forward. Do NOT do what I did and max charge repeatedly. This was my fault.,0.0,0.5,1.15,3
+"I would say following the advice given is the best - If the next twostops added up to less than 100 percent of your allotted time, then bundle two stops in one charge, otherwise, go charge for each stop, charging just enough to get there, considering worst-case traffic",0.16666666666666669,0.19333333333333333,2.75,2
+"The advice for short trips to focus on smaller/shorter charging times is useful and leads to efficient times, but on longer trips, it's only decent with the results. ",0.11666666666666667,0.4916666666666667,3.3,3
+"You should only charge just enough to get you to the next stop considering the maximum travel time. Also if you have enough leftover to make it to the next stop, then you should skip that stop.",0.0,0.4,1.75,2
+I'm not sure because I didn't pass on anything,-0.25,0.8888888888888888,0.0,1
+Basic math and overestimate,0.0,0.125,2.45,3
+You should charge enough for the next two stops.,0.0,0.25,2.1,2
+"Always charge to just one above the longest travel time as apparently if you're at zero even at the end, you'll get a 300 minute penalty. Always better to be safe than waste 300 minutes.",0.17,0.29,2.3,1
+Look at multiple segments to determine .best recharging strategy,0.0,0.0,3.35,1
+The penalty of running out of charge is significant so make so you have a enough to cover each stop,0.1875,0.6875,0.95,2
+"If two consecutive trips are relatively short, even with traffic considered, prepare to charge just enough to make it through those stops beforehand.",0.0,0.4,3.4,3
+"Use math on an excel workbook. It took me a round or two to figure it out. I also did not realize the traffic numbers were the same the first five rounds until about round 3. I expected the latter 2 rounds to be 5 rounds, not 2.",-0.041666666666666664,0.27638888888888885,2.25,3
+I'm not sure what tip I could give future players aside from not changing anymore than the absolute worst case scenario (like the AI advice displayed)  because the time it takes to charge increases exponentially the higher the battery percentage is,-0.16,0.6827777777777777,3.4,3
+Even though it doesn't make a lot of sense it seemed to work better to charge often for small amounts of charge.,0.125,0.45,1.9,3
+It’s rigged you can’t bulk up at the beginning,0.0,0.0,0.2,2
+Try to charge as much as you can when you get the chance.,0.2,0.2,4.1,1
+"Charge just enough to get to the furthest stop that is at most 50 minutes away assuming maximum traffic or to 50, whichever is greater. Do not charge again until you reach that stop. Then repeat the process until you reach the end. (I thought the number was closer to 70 but never tested either!)",0.375,0.5,3.7,2
+Charge the most at round 1 and then charge the least amount to make it through the journey.,0.0,0.43333333333333335,2.85,1
+"Try to estimate as close as you can, to reduce the number of stops to every other stop. ",-0.125,0.375,1.7,3
+Always overcharge,0.0,0.0,0.6,1
+You should be able to make it to the next stop.,0.25,0.3125,3.05,3
+do the maths bro,0.0,0.0,2.75,2
+A more direct instruction of the exact amount to charge.,0.2833333333333333,0.3833333333333333,1.4,2
+Pay attention to all the drive times.,0.0,0.0,1.9,2
+"Stop more frequently, don't charge over 50% unless you have to. It is much faster. ",0.26666666666666666,0.3333333333333333,2.65,3
+"Get enough charge from the start to cover two segments if possible, then just get the bare minimum charge to cover the rest of the segments. ",0.016666666666666666,0.5333333333333333,3.5,3
+They can first 100 percent at the beggining.,0.25,0.3333333333333333,1.55,2
+"luck is not on your side, always anticipate to lose the most gas",0.5,0.5,0.75,1
+Weigh the cost of buying charge enough to cover max traffic versus maybe have charge leftover.,0.0,0.5,2.65,1
+Try to recharge as few times as possible and keep the charge below 50%.,-0.1,0.55,1.35,1
+It's not worth risking running out to save a few minutes since the penalty is so great. Always recharge for the maximum possible time that the segment might be.,0.11250000000000002,0.4875,3.1,3
+It was just enough but be more precise about the charging capacities.,0.3,0.6,0.95,2
+Listen to the advice and charge enough to make it with a small margin for the traffice.,-0.125,0.45,1.55,3
+Charge more at the beginning.,0.5,0.5,0.0,2
+Keep charging the car usually,-0.25,0.25,0.75,3
+benefit of filling fully vs penalty for partial filling,-0.1,0.3,1.9,2
+You should leave the instructions at the top during the game,0.04999999999999999,0.45,0.4,2
+I would say maybe help with the amount of charging and more help with traffic,0.5,0.5,0.4,2
+Make sure that you account for the traffic and get slightly more charge then you need.,0.5,0.6944444444444444,1.5,3
+"I think the exact charge percentage should be displayed as it will help the player know what to do at the moment,",0.25,0.25,2.1,3
+Always make sure you have enough to get to the next stop and be sure to look ahead. Planning around the maximum travel time for each (incorporating the maximum traffic) will ensure you can get through but taking risks around the minimum travel time will potentially allow you to get under <500 total travel time.,0.16666666666666666,0.6712962962962963,2.35,1
+"Future players should be able to get a warning or advice for other trips as well, and not just two selected trips.",0.125,0.375,0.3,2
+Listen to the advice. Charge more often. Remember you may not need enough charge for the maximum time needed (so you might want to gamble that it's less).,0.11111111111111112,0.35555555555555557,2.25,1
+Don't charge 100% at the beginning.,0.0,0.0,1.4,1
+"Try to fill your battery so that your current charge plus the extra charge is equal to the length of the next two or so stops, if that's right.",0.05714285714285714,0.2571428571428571,2.1,2
+How much to charge before each trip,0.2,0.2,1.5,3
+take the advice,0.0,0.0,0.3,2
+Just calculate the time and traffic ad then to use the lowest possible charge for it,0.0,1.0,1.9,1
+check traffic,0.0,0.0,0.0,1
+Show the amount we need to charge to cover the trip with traffic and without,0.0,0.0,1.3,1
+always do the maths,0.0,0.0,0.0,1
+Trust your gut. Think about the AI tips into rounds that may not have the prompt.,0.0,0.0,2.45,1
+"Try not to charge over 55% at any one time unless necessary. Also, there's no need to charge extra time """"just-in-case"""" beyond the length of time of the worst-case traffic. ",0.0,0.55,3.15,2
+Calculate your time well,0.0,0.0,0.7,2
+Play extremely close attention to your current charge when making your decisions,-0.0625,0.7,0.0,2
+Add up your time in the beginning then divide,0.0,0.0,0.8,2
+"At 0% charge, the most efficient charging percent for your time is 44%",0.5,0.5,1.55,2
+Just calculate time well,0.0,0.0,0.4,2
+the should always calculate ahead the distance to be covered and the time it will take for them to get there so they can charge their battery at once to avoid penalties and extra time spent on charging batttery,-0.05,0.1,1.0,2
+details should be added to the screen,0.0,0.0,1.5,3
+Be calculative with your distance and charge,0.0,0.0,1.5,3
+Charge enough for just one stop,0.0,0.5,1.15,2
+I prefer the advice for instance focusing on the total travel time rather than focusing on getting the vehicle to the next stop so as to avoid the extra charging time involved.,0.0,0.2833333333333333,1.4,3
+"Always minimize charging time, and strategically calculate enough to charge for the next stop!",0.0,0.25,1.5,1
+"I think that giving the % amount could be easier for some people to understand by not having to do the math themselves, but I found that having it tell you whether to charge enough for this segment or this segment and the following made me do the math myself and it was helpful in following situations because then I knew what I needed to do without relying on the number being provided for me.",0.0,0.2333333333333333,2.3,2
+the tips actually worked great,0.4,0.425,3.0,2
+Combine the two maximum times and add one or two extra minutes when you charge. That way you don't have to stop after every stop to recharge.,0.0,0.1,2.95,2
+my performance was really bad so i do not really think my advice is good.,-0.03333333333333329,0.48888888888888893,0.0,2
+pay attention to the charge time left,0.0,0.0,0.4,2
+when you are at the last stop dont gamble with the charging time,0.0,0.06666666666666667,2.25,1
+always charge at this stop enough to cover just this road segment,0.0,0.5,0.0,1
+"It was difficult to decide when to recharge, I tried but I couldn't reach the finish line properly.",-0.25,0.55,0.0,3
+THE TIP COULD BE CLEARER AS THE ADVICE OR TIP GIVEN TO ME SHOULD HAVE STATED EXACTLY HOW MUCH PERCENT FOR ME TO CHARGE AT EACH STOP,0.225,0.225,1.55,1
+"I think if past mistakes were visible, this will allow the players make more informed choices",0.125,0.375,2.3,3
+Do not over charge and also know when to charge for two segment,0.0,0.0,4.1,2
+pay attention to the time increases!,0.0,0.0,1.4,1
+The overall explanation of the game was fine. It's the actually playing part and getting it right that was hard. I'm not sure what else to offer in getting better results there.,0.03258928571428571,0.4332837301587301,0.4,1
+I think you will have to do your best to consider travel time and traffic for the next stop and decide on how to minimize it without running out of charge,0.5,0.15,1.9,3
+The advice you're providing right now is great.,0.5428571428571429,0.6428571428571428,2.45,3
+No tip. The advice given was very helpful,0.2,0.3,1.95,3
+Calculate two to three stops ahead in order to know how much to charge and to avoid 300 minutes for penalty for insufficient charge.,0.2,0.2,2.4,2
+this works just fine,0.4166666666666667,0.5,1.5,3
+A more precise or range should be included in the advice on what to charge for a particular round.,0.21666666666666667,0.5083333333333333,1.5,1
+What worked best for me was to charge to 50% at stop 0. This charge would get me to stop 3 (most of the time). Then for the last half of the trip charge just enough to get to the next stop each time.,0.2222222222222222,0.2555555555555556,2.25,2
+I can't think of anything.,0.0,0.0,1.3,1
+I always took into consideration the worst case scenario.  I only combined 2 stops if it was around 50%.,-0.5,1.0,2.6,2
+Pay attention to the charge and how long the trip may take.,-0.05,0.4,0.2,2
+I don't know.,0.0,0.0,3.2,3
+Pay attention to the general amount of time a trip between stops takes and how much charge is used during that trip. It may help you more quickly gauge if you can or cannot continue with or without charging.,0.2708333333333333,0.425,0.2,1
+"If the math was explained fully, like """"if you choose to charge for two sections here, and charge for maximum traffic anticipated, you will arrive X amount sooner or later than if you charge twice and just charge enough to cover each segment""""",0.0,0.25,3.8,2
+Charge longer when traffic is light to get at least two stops,0.05000000000000002,0.55,1.7,1
+"I think if there's a long segment after a short one, just charge enough for the short segment and then charge for the long one. If there are two short segments, charge enough for both.",-0.014285714285714287,0.3857142857142857,2.8,3
+Charge for multiple stops if the sum of their minutes combined is equal to/under 50%.,0.0,0.125,3.9,3
+"I think going an over a few percentage points every stop before a reset (a point where you need to fill to 100 to hedge against worst case) is ideal. it allows you to coast the last round without a need for charge. Also don't be afraid to take risks there was points where I knew if it rolled worst case, I would not have enough charge, but I believed and the rng played in my favor.",-0.26249999999999996,0.6208333333333333,2.4,2
+Charge more than you think you'll need.,0.5,0.5,1.8,1
+I don't think the advice/tips could improve.  The advice was perfect and had just enough gas to make it to each stop. I would say the best advice to players would be to follow that advice structure given for the whole experiment.,0.55,0.55,1.7,3
+"Charging all the way to 100 takes a lot of time, but each charge also has a setup time, so try to charge a moderate amount to be able to cover multiple segments on a single charge when possible.",0.08571428571428572,0.5078571428571428,2.8,3
+Increase charge to avoid running out of charge if the maximum amount of traffic is present.,0.0,0.0,3.1,3
+I can't think of anything. It was pretty easy once I figured out how it worked exactly.,0.3111111111111111,0.6944444444444445,2.85,3
+I think the simplest but most useful advice I can give to other players is to analyze the situation they are in and make the best possible decisions based on their own reasoning.,0.37916666666666665,0.5291666666666667,0.4,1
+Charge during traffic,0.0,0.0,1.2,2
+Just try your best.,1.0,0.3,0.4,2
+not sure,-0.25,0.8888888888888888,0.4,1
+charge enough to skip next stop,0.0,0.25,1.15,2
+"Charge just enough to cover the current round, considering the maximum amount of time traffic could take combined with the travel time.",-0.06666666666666667,0.43333333333333335,2.85,3
+Take time in advance to preview the road segments and their various lengths/traffic amounts,0.0,0.5,1.2,1
+"Im not sure what to say, when you mean what was shown if your referring to the advice Id say its fine no need to change, but for battery charge a verticle table showing time to charge in 5 min intervals (as a reference) could be useful (to see the rate of change)",0.03854166666666667,0.5190972222222222,2.2,1
+"Add up the minutes and then subtract the gas you already still have. Do not forget that you might still have a certain amount of gas, because you don't want to fill up more than you need or it costs more time.",0.4047619047619048,0.5238095238095238,1.95,1
+"When charging for multiple segments, it may be worth it to charge slightly below what you would need if traffic was always as bad as possible.",-0.11333333333333331,0.38666666666666666,2.85,3
+"I'm not really sure I performed well enough to be offering advice, but, try to consider multiple roads at once, is probably a good strategy.",0.11249999999999999,0.49722222222222223,2.1,1
+Remind them they should arrive with the least amount of charge in the car to win. They do not need to arrive with a lot of charge left and that will cost them more time to fill it that high.,0.23199999999999998,0.368,2.3,2
+My advice would be to charge almost to full when there's little distance and traffic to maximize time. Also that you don't need to charge at every stop.,0.08124999999999999,0.525,1.0,1
+Pay more attention to the color of the roads.,0.5,0.5,2.65,1
+"Best simple tip: Look through the next 2-3 segments of the travel, and if you can charge enough to cover the next 2-3 segments, do it while your battery charge level is low.",0.16666666666666666,0.24285714285714285,3.2,2
+I recommend charging enough to cover the first two stops initially. Then just enough for each remaining stop assuming traffic,0.0625,0.3333333333333333,3.3,3
+"I think the tip shown was very helpful and straightforward. In addition to the tip, maybe add reminder text to consider the amount of time it will take for the drive in addition to the charge time.",0.2875,0.3375,1.95,1
+Plan for traffic to be the worst it could possibly be because running out of charge before the stops has a huge penalty.,-0.19999999999999996,0.9666666666666667,3.7,2
+"Maybe charge the average between the min and max distance between each stop. If you only charge against the maximum distance, you won't get the maximum bonus.",-0.075,0.7,2.35,3
+The tips were excellent. I wish I had more tips.,0.75,0.75,1.15,3
+I loved the tips and thought they were perfect,0.85,0.9,3.25,3
+"Try to only charge as much as you need ad don't take unnecessary risk.. If there are two shorter segments where the max required charge to get through both is about 55 minutes, charge enough for those two segments.",-0.05,0.65,3.95,3
+Say exactly how much to charge at each stop.,0.225,0.225,2.45,2
+"To combine segments if it adds up to about 50%.  Greater than that, it's too long unless that is a strict requirement for the road segment itself.",0.225,0.45,3.3,3
+Charge the minimum necessary to get through each stage.,0.0,1.0,1.8,1
+"I used the tips given, so I think the displayed tips are effective.",0.6,0.8,2.65,3
+The best simple tip and advice on the gameplay and strategy to help future players is to always charge more than anticipated.,0.375,0.32053571428571426,1.5,3
+Try to do the math before you start.,0.0,0.0,0.9,1
+Exact numbers to safely make it to the next stop would be more helpful than 'charge extra'.,0.25,0.27,1.6,2
+"Try to predict the whole game first, and then make adjustments each round depending on how close or far you were from your predictions. If the next round offers the same time as the previous round, see if there are ways to continue optimizing your timing based on what you noticed last time. Don't deviate too dramatically, but see if you can play with the buffer of the minutes you're working with. ",-0.04305555555555555,0.30763888888888885,2.25,1
+"If the stop has a high amount of traffic (orange-red), it is better to only charge just enough to get to the next destination. If there is not much traffic (green), charge to cover the next stop as well.",0.045000000000000005,0.38,3.35,1
+I thought the tips were fine and logical.  My strategy was to cover at least one pair of low time stops that way I can skip at least one.  For the upcoming long stops I would also get more charge than necessary the stop before so that I don't have to charge for an even longer time for the heavy traffic areas.,0.03518518518518519,0.4722222222222222,2.6,1
+"I was unclear for a while that the traffic numbers were a range, and not just two options.",0.0,0.0,1.9,3
+Read all the information,0.0,0.0,1.15,2
+For shorter trips only charge what is needed. For longer trips charge slightly more than needed to anticipate longer travel times,0.25,0.75,2.7,1
+It's important to see how much charge you need ahead and use that knowledge to charge accordingly.,0.30000000000000004,0.6,2.1,3
+Best advice is to take the minimum amount needed to get to the next stop,0.5,0.15,3.35,3
+"Well honestly, your tips were better than anything I could suggest, but basically charge as little as possible to make it to the next stop. Only combine charges to get through two stops if the distance+max traffic times are very short.",0.13035714285714287,0.6128571428571429,3.05,3
+"I would advice the player to follow the AI advice to the a tee in order to gain any bonus. Otherwise, it is impossible to produce the right outcome on your own.",0.07301587301587302,0.8452380952380952,1.5,3
+I think the advice that was given was good on its own though there could be some detail as to why we should charge to that certain amount.,0.5047619047619046,0.7238095238095239,3.0,3
+Charge enough to make it through multiple segments.,0.0,0.25,2.8,3
+Remember that some legs of the trip can be combined.,0.0,0.0,2.0,1
+Don't be afraid to get your charge fairly low. As long as you have enough charge to make it to the next stop you can cut it pretty close.,-0.06666666666666667,0.5166666666666667,1.35,2
+"Try not to waste time charging if you don't need to, but if you do need to, try to make sure you get enough to at least get to the next stop and possible the next two stops",0.0,0.3984126984126984,1.45,2
+Go with your gut. Don't overthink.,0.0,0.0,2.3,1
+I think the best tips were the ones that were shown in the game.,0.3,0.35,3.25,3
+Use math!,0.0,0.0,0.6,1
+Charge more than you think neccessary,0.5,0.5,0.6,2
+I think my advice hit the nail on the head honestly.,0.6,0.9,3.0,2
+maximize stop time and don't worry about excess charge.,0.0,0.0,1.15,2
+"Running out of charge will set you back way more than an extra charging stop so when in doubt, charge extra.",0.125,0.175,0.6,2
+"To fuel up for shorter legs together if it's under 60% fuel needed, and any leg of the trip over 50% is its own fuel up.",0.6,1.0,3.55,1
+I think the advice given worked really well so I would stick with that,0.2,0.2,3.7,1
+"I think it helps to fill up the charge to the highest while very low on charge and readjust accordingly. Look ahead to see if the coming road is green, orange or red to anticipate how much charge you need. ",0.0,0.22249999999999998,0.8,1
+charge enough to make it to the stops but not low enough to need to stop at every time,0.0,0.43333333333333335,1.75,3
+charging impacts time,0.0,0.0,0.3,2
+"I would follow the advice. Fill up to a full take during the low traffic stops, unless they are towards to the end. Otherwise, just fill enough to reach the next stop.",0.0875,0.3375,1.75,2
+I think the way the advice was worded was perfect.,1.0,1.0,1.5,3
+try to minimize stops and only additional charge up to 50% if possible,0.0,1.0,1.95,2
+I think the best tip would be to give specific amounts to charge as it will leave no room for error trying to calculate the charge amounts.,0.5,0.2125,3.05,3
+Try to pinpoint exactly how much charge you'll need to get through to the next stop instead of just ballparking it,0.15,0.15,0.2,1
+Charge just a few % points below what you need,-0.2,0.1,2.55,1
+"Make sure to consider """"worst case scenarios"""" with the traffic when deciding on how much charge to add to the car. ",-0.09999999999999999,0.6962962962962963,0.8,2
+Tips on when it is best to fill up,1.0,0.3,0.75,3
+"How many minutes of charge one has left, instead of percent",0.25,0.25,0.2,1
+Try and charge for two segments at a time,0.0,0.0,1.15,1
+Take your time and consider all available information.,0.4,0.4,1.35,2
+Carefully consider traffic times,-0.1,1.0,1.4,3
+aim for the bonus goal and focus on the time you have to reach your bonus goal. play with the numbers.,0.0,0.0,2.4,1
+"I think the tips were good. I don't think they should be replaced with anything. When I followed the advice, I did very well and it helped me learn what to do in future rounds.",0.3,0.34166666666666673,3.3,3
+Include more information on combining rides for better performance on charge.,0.5,0.5,2.55,3
+"During short trips at the beginning of each round, charge extra. ",-0.06666666666666667,0.26666666666666666,1.65,1
+follow the advise,0.0,0.0,0.0,1
+Only exit to charge when its necessary. Charge enough to be able to cover as many road segments as possibly without stopping to charge.,0.16666666666666666,0.7708333333333334,0.0,1
+"Try to charge enough for current leg, plus next, so you don't have to stop every time.",0.0,0.3,0.9,2
+"Tip: charge car to the minimum it takes to reach the next destination + the next stop if possible. You're already taking the hit of 30 minutes to stop + the time to charge, so it's worth overcharging when you can.",0.075,0.275,2.9,2
+"Think/plan ahead, try to do more in anticipation of the next stop.",0.25,0.25,2.7,1
+To show to stop or not and estimates about how much to charge.,0.2,0.2,0.75,1
+Always try to keep the charging under 50% for faster times and make sure you look ahead to the times on the roads.,0.5,0.8888888888888888,2.65,1
+Charge less than 40% and choose near max charge in that range if you expect some very long trips ahead to give you extra range.,-0.032916666666666664,0.27166666666666667,3.95,1
+"Remember this is not an actual drive - you may prefer to stop less often in real life and fill up extra, but this is a game. ",-0.07333333333333333,0.19333333333333336,1.7,2
+,,,,1
+It is probably the best strategy to use charge up to 50% and go as far as possible until one has to charge again,0.3666666666666667,0.7666666666666666,0.4,2
+This is better.,0.5,0.5,0.0,3
+it was good advice the way it is,0.7,0.6000000000000001,0.4,1
+"Generally, you should charge only what is necessary for the next trip segment. However, if there is an upcoming segment that is fairly short, compare what it costs to charge the future segment at the current stop versus what it would cause to charge that amount alone.",0.007142857142857145,0.475,2.2,2
+Review the stops,0.0,0.0,0.3,1
+"I would tell future participants to carefully calculate the times, distances, and amount of time to charge to perform well in the game.",-0.16666666666666666,0.5083333333333333,0.75,2
+Be careful not to overcharge.,-0.1,1.0,0.4,1
+"The time penalty for over-charging was only a little less than the cost of going to zero, it's best to keep the battery charge-state as low as possible without running out.",0.1076388888888889,0.5277777777777778,3.55,2
+"I wouldn't show any tip, I felt bothered by it and it made me less motivated at a time when I was finally figuring out my own system.",0.14444444444444446,0.6888888888888888,1.75,2
+"More frequent stops for less fuel are more time-saving than fewer, but longer, stops to fill up completely",0.2066666666666667,0.35333333333333333,3.7,3
+"Instead of giving the exact time to charge, it should just give advise on what they COULD do, like hey in this case make sure to check the following segment of traffic in addition to the next stop.",0.1875,0.30972222222222223,4.1,3
+"once you make it to the last two rounds and want to get the minimum charge time, subtract your current charge to the initial distance and the highest traffic just incase luck is not in your favor",0.0,0.15555555555555556,1.55,1
+To use your own judgement,0.6,1.0,0.0,1
+,,,1.5,1
+You should always have a little more charge than you think you need to try and avoid the penalty.,0.15625,0.5,0.0,2
+"Your tips were perfect.  It was something like """"you may want to charge an additional 27% this round"""". That was perfect advice.",0.6,0.7999999999999999,2.7,3
+I don't know any advice for it because I wasn't really great at it.,0.8,0.75,0.2,3
+Don’t know,0.0,0.0,1.15,3
+Should have better tips in how long a stop will be.,0.225,0.45,1.0,1
+Consider looking at all travel segments ahead.,0.0,0.0,1.0,2
+"There could be reminders of the time addition for exiting and preparation, which I consistently forgot to account for.",0.25,0.25,2.25,3
+never charge over 50% unless a trip to the next stop will be longer than that,0.0,0.0,4.1,3
+Be really cautious on minimum/maximum distance time.,0.2,0.2,0.8,1
+Minimize fill ups but don’t go over 50% unless necessary,0.0,1.0,1.4,2
+"Do not charge past 60% to begin and calculate the math before just submitting a random charge. At first, I was trying to keep the numbers ending in a 5 or 0 so it made more sense. Do not overestimate. ",0.0,0.3958333333333333,2.65,3
+,,,1.5,2
+Always keep your charge at bare minimum to complete your trip with the maximum traffic time.,0.07500000000000001,0.25,2.85,2
+An easier way to describe how long it takes to charge. I didn’t understand it from the rules.,-0.05,0.4,2.85,2
+"The advice shown was good, I cannot think of anything better to show.",0.6,0.55,3.4,3
+I would not change anything.,0.0,0.0,0.8,1
+i think the tips were fine,0.4166666666666667,0.5,0.4,2
+Don't try to compensate for the maximum traffic that is stated because that is not the safest strategy to go about especially if you want the additional bonus.,0.0,1.0,2.05,3
+Clearly understand the miles plus time.,0.10000000000000002,0.3833333333333333,2.35,3
+I think the advice given was useful and helpful without giving specific numbers. It allows the player to access the situation and make their own decision.,0.3,0.375,1.0,2
+"At stop 0, be sure to charge the car. I was not aware that the charge starts at 0 for each round",0.05833333333333333,0.512962962962963,1.35,1
+I think maybe advice that sometimes it is necessary to charge a long time to avoid depleting to zero,-0.025,0.7,1.4,2
+I think the advice of using shorter segments grouped together before longer segments is the best advice,1.0,0.3,2.1,2
+Please pay attention to the stops and use as little fuel as possible.,-0.09375,0.75,0.6,1
+Is a good strategy,0.7,0.6000000000000001,0.2,1
+Follow the advice and charge to minimize time. SHort segments are faster.,0.0,0.3,0.6,1
+adding up the time from all stops to see what the total will be,0.0,0.75,1.4,2
+I think the advice was good but there could be better options.  Sometimes you have to risk the traffic wont be as bad.,0.1666666666666667,0.5888888888888889,2.15,1
+The AI should advice at all stages of the game,-0.4,0.4,0.2,3
+Do the math and also better to charge more than enough instead of too little to avoid penalties.,0.203125,0.5,1.85,2
+Follow the directions and go over the example as many times as possible. Try to keep your charges under 50%.,0.25,0.75,0.8,2
+time calculation incase one stops and charge or if one decides not to,0.0,0.0,1.95,3
+Plan on doing math,0.0,0.0,1.0,1
+Just remembering to really use simple math and to help you out. And consider looking to the next stop to see if it's worth charging more to pass by 2 stops.,0.2,0.2314285714285714,3.3,3
+Charge more than you think you need always.,0.5,0.5,0.3,2
+2 charges is better than charging more than 50%.,0.5,0.5,2.65,1
+use a calculator to add the numbers quicker,0.0,0.0,2.5,1
+fill up to only what you need and try to get under 500 minutes.,0.0,1.0,0.2,1
+Calculate just how much you'll need to get their each round.,0.0,0.30000000000000004,0.4,2
+"I think the advice was solid, it was a strong and safe strategy that got you to the destination in a timely manor. I think the only tip I would display is maybe a +/- deviation on what the recommendation is, that way it's not a clear cut answer and still gives a bit of strategy.",0.17666666666666667,0.5433333333333332,2.35,3
+"You have to understand the """"time value of charging"""" as the rate of charge is not constant, so understanding if it is better to charge for multiple stops or just your next stop is critical.",0.1,0.32666666666666666,3.9,2
+"No clue, sorry!  This is a complex game.  ",-0.4416666666666667,0.6,0.9,3
+Charging below 60% is the most effective use of time. Going from 0% to 40% is much faster than going from 40% to 80%. Just charge enough to get between the stops you need. There is no reason to keep extra charge. Plan for the worst case traffic and you will often get to a stop with extra charge thus saving time later on.,0.037500000000000006,0.4,2.7,2
+Focus carefully on the color of the traffic and decide whether to take a risk based on that or not to minimize time.,-0.1,1.0,2.65,1
+To combine trips when possible. Be aware that the stop currently discussing is the one you are on and not the one you are going to.,0.08333333333333333,0.5499999999999999,2.7,2
+I think the advice was fine. I was going off a little on probability hoping that the randomness portion aligned with my goals.,0.11458333333333334,0.5,2.25,3
+Display tips for more than one stop.,0.5,0.5,2.95,3
+I think knowing a rough estimate of how much charge is needed for the trips are good.,0.26666666666666666,0.4000000000000001,2.3,3
+I honestly didn't come up with any better tips than what the advice told me.,0.55,0.7,4.1,1
+"If there are two segments together that are short, charge once for both stops.",0.0,0.3,2.35,1
+Tips that could be provided could be about understanding and teaching the strategy used by the AI to maximize performance.,0.0,0.0,2.35,3
+"Try to do the first two stops in one go, then stop at every stop and fill up only as much as you need.",0.15,0.5111111111111111,3.6,3
+I would say to charge more frequently at each stop and make sure its enough to get the the next one rather than charging enough for multiple stops,0.15714285714285717,0.38412698412698415,1.95,2
+"Make sure you take into account Stop 0 (some of us count Stop 1 as the 1st stop, somehow, this tripped me up once).
+Don't think that this would be just an asinine way to travel!",0.625,0.8888888888888888,1.75,2
+You should just say exactly how much to charge for the advice.,0.225,0.225,0.8,1
+I really like the advice it gave. It was straightforward and easy to follow.,0.3361111111111111,0.4694444444444444,2.5,2
+Be more careful about not adding too much or too little time more often.,0.18250000000000002,0.54,0.0,1
+Try to stick to fast charging as much as possible.,0.1,0.8,3.0,1
+Don't overcharge or get too greedy.,0.0,0.0,2.65,1
+Just charge as much as possible and don’t risk having just enough to get by.,0.0,0.75,0.2,2
+Only charge enough at one time to make it through the next 1 or 2 stops,0.0,0.5,3.45,1
+"Pay close attention to the maximum mileage ranges, and play riskier than you otherwise may.",0.0,0.0,0.6,2
+only charge what u need and dont charge at every stop,0.0,1.0,1.55,2
+I think the tips you provided were excellent but maybe you could explain it more along the lines of heavy vs. light traffic,0.42500000000000004,0.675,3.7,3
+"I think it is smart to get an understanding of how to save the most time possible when charging. By this, I mean that future players should not focus on fully charging but focus on getting from one point to another on sufficient charges. ",0.08035714285714286,0.5910714285714286,2.9,3
+pass,0.0,0.0,0.2,2
+"Only look a few stops ahead, use AI advise",-0.1,0.55,1.35,3
+same advice,0.0,0.125,2.5,3
+Do a full charge at the beginning and keep driving until you see a notification that you are below 20%.,0.35,0.55,1.55,2
+Always look at the distance and the amount to charge to get to a charge point,0.0,0.0,0.0,2
+Reminder of the charging speeds when high and low % remaining.,0.08,0.41999999999999993,0.6,1
+If the next trip is less than 30 minutes and if you are able to charge for the two trips.,0.11111111111111112,0.23055555555555554,3.1,2
+Always follow the AI.,0.0,0.0,1.5,3
+"Always have enough gas to account for the worst traffic. Only join together short segments, the slower charging time is not worth it unless absolutely necessary.",-0.19166666666666665,0.65,3.7,3
+"You generally should charge just enough to get you to the next road segment, except if the percentage to go to the next two stations is less than 50%.",-0.023333333333333327,0.21333333333333332,2.65,3
+"The tips provided were great, but you should include more of them overall.",0.43333333333333335,0.4166666666666667,0.95,3
+The distance between the two locations were much further than anticipated and required much more charging time than expected between first and second location.,0.13,0.3466666666666666,1.15,3
+Make sure that you are at more than 50% before reaching the 100 mile journey in the long round.,0.1875,0.5472222222222222,2.7,3
+stop and charge,0.0,0.0,1.9,3
+I thought it was fine the way it was,0.4166666666666667,0.5,2.6,1
+I think what was shown was most clear cut.,0.3,0.44166666666666665,2.85,1
+"You should charge about 50% at the first stop
+enough to cover just this road segment",0.125,0.41666666666666663,1.5,3
+,,,0.0,1
+"Try and plan it so you don't have to charge more than 50%, but if you can skip a stop it's worth it to go a little more than that.",0.278125,0.4,1.55,3
+none,0.0,0.0,0.2,1
+If a leg of the trip takes less than 30 minutes and you can charge for it in under 50 minutes do so.,-0.16666666666666666,0.06666666666666667,3.5,1
+"Charge exactly for most trips and also, charge  to 100 for most first trips",0.375,0.3958333333333333,1.55,2
+battery charging speed is optimal up to 50%,0.0,0.0,3.35,2
+Charging to lower levels takes less time,-0.16666666666666666,0.06666666666666667,3.1,2
+Showing them in the trial section how to guestimate time for future roads and to save charging for doing smaller more accurate amounts at the end.,0.22500000000000003,0.4395833333333333,2.65,2
+"fuel up on the shortest trip
+",0.0,0.0,0.0,2
+it was perfect,1.0,1.0,0.8,1
+Filling up the car fully takes more time and isn’t always worth it.,0.4,0.3,3.75,2
+I thought the tips were useful and would not change them.,0.3,0.0,3.4,2
+Re-charging to the fullest is not always going to get you to the destination in the fastest time due to time taken to charge.,-0.125,0.375,2.65,1

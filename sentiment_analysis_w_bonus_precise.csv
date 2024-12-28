@@ -1,0 +1,423 @@
+adviceThoughts,sentiment_polarity,sentiment_subjectivity,total_bonus,con.precise
+Didn't know how reliable it was.  I'm wary of tricks!,-0.625,0.7,0.9,2
+I've been doing studies a long time. Some include advice for what to do. I always ignore it. I'd rather make my own decisions. Sometimes they match the advice; sometimes they don't.,0.27499999999999997,0.7,0.0,2
+"The advice proved useful and successful. I found it effective, so I continued to use it, albeit in a mildly modified form at times.",0.4958333333333333,0.5625,1.15,3
+"I incorporated the advise because each time I got it, I got the max bonus.",0.0,0.0,2.25,3
+Didn't see it.,0.0,0.0,3.6,1
+"Sometimes the advice seemed adequate, but other times it didn't.  Occasionally I just decided to take my chances.",0.06944444444444443,0.27777777777777773,2.6,1
+The first round that advice was available I followed it just to see how it would do. It was extremely helpful so I followed it the second time.,0.065,0.42666666666666664,1.9,3
+"I chose to incorporate the advice into my strategy because it seemed very sound. I felt more confident in following the advice after the first round where I followed it closely, as I saw it improved my results.",0.26166666666666666,0.44777777777777783,2.2,1
+I used the advice since I wasn't performing overly well on my own.,0.6,1.0,1.15,3
+I looked at how much each leg would be individually and together and the AI seemed to suggest the cheapest way,0.1,0.30000000000000004,2.15,2
+I don't like being told what to do and I wanted to figure it out on my own.,0.6,1.0,1.9,3
+It wasn't that different from my own thinking.,0.3,0.8,1.6,2
+"the AI was very efficient, so there was no reason not to follow its advice",0.2,0.3,1.8,3
+I was curious to see how their advice panned out and when it did i implemented it.,-0.1,1.0,2.6,1
+i figured the that ai would have some knowledge so that i didnt have to think about how much gas was being used,0.2,0.2,0.2,2
+"After listening to it the first time and getting better results then my own, I listened to it whenever it popped up.",0.45,0.611111111111111,2.25,3
+"Task is super complicated and mathy, needed all the help I could get. ",-0.08333333333333334,0.8333333333333333,2.25,3
+The previous rounds with no advice were unsuccessful. Taking the provided advice was worth trying.,0.06666666666666667,0.13333333333333333,2.3,3
+Sometimes it seemed like the next stop would be better to charge for too because it was pretty short,0.1875,0.45,1.4,1
+"It seemed better to combine the shorter travel times when they add up to ~50. It got me under the highest reward goal, I don't know if maybe charging every stop could go lower.",0.5,0.5,4.55,3
+"I think I followed it, because it was making sense with what I was going to do anyway. ",0.0,0.0,0.8,2
+I felt that the a.i. would calculate better than I could.,0.5,0.5,1.8,3
+"I wanted to experiment just how much charge I could get, so sometimes I would go over the 50% charge just to check.",0.2,0.2,1.55,3
+"I usually did follow it, I think, because it was what I would have done normally.",-0.05,0.44999999999999996,0.8,1
+I felt the advice made sense I didnt feel misled so I followed the advice,0.0,0.0,0.8,1
+"I followed the advice exactly as it recommended the first time, and it results in <500, so I had no issue thinking the advice would guide me poorly and continued to follow it.",0.033333333333333326,0.3944444444444444,2.65,3
+I was thinking the same way but was glad to have my feelings backed up,0.25,0.5625,3.2,1
+I felt the algorithm would know better than I did.,0.5,0.5,2.45,1
+When it looked like the strategy would not work for the round,-0.2,0.4,1.7,3
+When I judged a decent gamble to not charge more,0.3333333333333333,0.5833333333333333,2.25,3
+Not sure... I thought if I charged UP to the 50% it would be quicker in the next round when I needed to charge but it never seemed to be. When it's lower it charges fast so I think i kept it too charged if that makes sense.,-0.0625,0.4722222222222222,2.65,1
+I chose the advice in the beginning because my time kept being higher than I anticipated so I wanted to understand more thoroughly on what to do and how to proceed. I followed the advice 100% and it helped me out a lot.,0.375,0.5,2.3,1
+I looked at the suggestion and realized it should be me there the quickest.,0.0,0.0,3.5,2
+I thought it would make me perform better.,0.5,0.5,0.2,2
+"Prior to receiving the advice, I was performing too poorly to receive a bonus. It's easy to incorporate outside advice when what you're doing on your own is going terribly. ",-0.061111111111111116,0.5805555555555556,2.6,1
+I had a good strategy that I knew would do well so I just Ignored it mostly since it wouldn’t provide me an added benefit.,0.6,0.55,4.7,2
+"I kind of felt that the game was taking it easy on me, and the way it was presented like mercy. ",0.2111111111111111,0.7111111111111111,1.35,2
+spite,0.0,0.0,1.1,2
+A few times I didn't agree with the strategy and felt maybe I could choose better myself.,0.15,0.3,1.15,2
+There were just times when I thought it was incorrect and in those instances I followed my gut instead.,0.0,0.0,1.4,2
+In the 4th round it seemed like an exact copy of the 3rd rounds advice so I figured I should just do what I thought was best,0.2625,0.2375,2.6,1
+I figured it would help me shorten the time taken,0.0,0.0,2.5,1
+"Sometimes, the advice seemed like it was going to guarantee that I would need an emergency charge.",0.0,0.0,0.8,3
+I believe that AI can offer good advice for these situations.,0.7,0.6000000000000001,1.3,3
+"The AI advice and my strategy were nearly the same, so I used it mostly, but that was the course of action I would have taken regardless. ",0.175,0.28125,3.95,2
+I felt like I could be independent.,0.0,0.125,2.65,3
+,,,1.0,1
+"The advice was quality, seemingly. It lead me to win the two round where the advice was given and then 2 more without any real hassle. So I kept on going with the AI's advice and, for the most part, it worked well.",0.36,0.42000000000000004,2.65,3
+The ai advice is what I was basically doing to start with.,0.0,0.0,3.8,1
+"It was difficult to consider taking two times to get smaller chargers, rather than just fill up and go. ",-0.25,0.75,1.55,3
+I was doing pretty badly so I figured it wouldn't hurt to try the advice.,-0.22499999999999992,0.8333333333333333,1.0,1
+when It said not to charge i felt like i needed to,0.0,0.0,0.0,2
+"I was not doing very well anyway, so I felt it was no harm to take the advice. I tried it out and it worked better so I stuck to it. I did try to take the risk and charge a little less than the maximum amount needed for segments sometimes, which worked fine one time and disastrously another.",0.010416666666666666,0.4444444444444445,3.0,1
+"I am a little overly cautious, so if I thought adding a little more charge was appropriate to get the next step ",0.125,0.4,2.95,3
+i felt like i had to follow the advice.,0.0,0.0,0.4,2
+I tried to follow the AI advice but didn't always compute it correctly. I chose to follow the advice because I figured the AI knew a lot more about driving and charging EV cars than I did.,0.5,0.5,0.9,1
+"I did not trust the command, I felt it wanted me to run out of charge.",0.0,0.0,0.0,3
+Because it was in line with what i had in mind,0.0,0.0,0.8,2
+Looked ahead and made a decision; sometimes I felt like the advice was too cautious.,0.0,0.0,2.45,1
+I tried to stretch my charge longer.,0.0,0.0,0.4,3
+At first I followed the AI exactly just to see if their rationale played out like it said. I immediately could tell that the results were better than my earlier rounds so I trusted their advice entirely the rest of the way.,0.2,0.4416666666666666,3.3,3
+I figured they knew best,1.0,0.3,1.95,1
+The advice made the prediction easy.,0.43333333333333335,0.8333333333333334,2.45,3
+Made the work easier.,0.0,0.0,0.6,2
+"I chose to incorporate the advice into my strategy because it optimized charging efficiency and minimized the risk of running out of charge. By following the tailored guidance based on traffic and charge requirements, I could better manage my travel time and avoid costly delays.",0.25,0.3,2.3,2
+I always considered the advice.,0.0,0.0,0.4,1
+I chose to trust the AI until it failed me at my game.,-0.45,0.35,3.9,3
+The advice was similar to what I was initially thinking in the beginning when I was trying to perfect my strategy. Usign the advice made it so my time at the end would give me a bigger bonus.,0.25,0.475,2.3,1
+I thought the advice was helpful but sometimes not relevant for the strategy I was trying to implement.,-0.2,0.9,2.1,1
+i believed it will help me use less time,-0.16666666666666666,0.06666666666666667,0.8,1
+There were times I felt the advice were wrong and had to follow my intuition,-0.5,0.9,0.0,1
+I was not doing well until I got the advice,0.0,0.0,3.7,2
+i had difficulty anticipating where/when to charge so i heeded the AI advice,0.0,0.0,0.5,1
+I figured the advice would know better than I would,0.5,0.5,1.55,1
+when i look at the situation and the instructions of the game,-0.4,0.4,0.0,1
+"During the test run of following the AI's advice, I had a much better time than I did with my own strategy. Because of that, I decided to follow the AI's advice closely.",0.3666666666666667,0.5333333333333333,3.4,1
+I did better after following the advice than I was before following it.,0.16666666666666666,0.2333333333333333,3.05,2
+It seemed like it improved my scores,0.0,0.0,2.15,1
+Generally I did follow the advice because I feel like that's how I would have played anyway. The advice was fairly generic and only really served to make you think a bit harder about both choices.,0.03,0.33999999999999997,1.35,1
+"The advice was in agreement with what I was planning to do anyway, it only justfied my choice. ",0.0,1.0,0.4,2
+The AI seemed better at reducing travel time then I was,0.5,0.5,3.05,3
+,,,2.7,3
+"The advice followed what I'd decided after the first two rounds except for the last two stages, so I followed that part as I would have done that regardless.  While the advice seemed like a good rule of thumb, looking at the times quoted it appeared that a single charge to 60% to cover the last two legs was better than doing two charges.  Basically I felt the advice was generally good, but there might be a bit of room to optimize if the charge % required was close to 50%.",0.29693877551020403,0.3401360544217687,2.9,1
+I just thought the advice made sense,0.0,0.0,0.4,2
+It would know better than me so I followed their rules,0.5,0.5,1.3,3
+I looked at the advice and looked at the map to see if it was correct/helpful and chose to defer to it.,0.0,0.0,2.4,2
+"I wanted to test out the AI strategy and compare outcomes. Since the AI was correct in avoiding the car running out of charge, but I wasn't left with too much extra charge, I trusted it.",0.0,0.05,1.4,3
+The way I tried to do it wasn't working and the advice made a lot of sense and helped,0.0,0.0,0.3,2
+I assumed they were right and followed the advice. They seemed to know more than I did on how to complete the game. Their advice never resulted in a penalty.,0.12142857142857141,0.45892857142857135,0.3,1
+fI chose to for a better chance at earning a bonus. and added a few minutes to see how it effected,0.15,0.3,3.4,3
+I feared it was wrong,-0.5,0.9,2.4,1
+I did not spot it as I was focused on other information on the page.,-0.125,0.375,0.0,2
+"I tried it the first time and it seemed to do really well, so I followed it from then on. For me to do better it would've taken a lot of time, like trying to figure out exactly how charge level affected times and trying to math out what ever segment would cost me in every scenario. That would take me more time than you give us so following the advice seemed reasonable.",0.2714285714285714,0.3547619047619048,4.2,1
+Because it was really helpful to me,0.2,0.2,1.2,3
+"What the advice said just made the most sense to me.  And this was needed, because I wasn't doing all that well on the first two rounds.",0.375,0.41666666666666663,2.0,2
+"I struggle with the first two rounds, so a thought that I might as well listen to the advice. ",0.25,0.3333333333333333,3.3,3
+The AI was proving to be accurate.,0.4000000000000001,0.6333333333333334,0.9,3
+It seemed to work the est.,0.0,0.0,1.9,1
+"I followed the AI's advice, but I felt that it could have helped a bit more during the other stops because I really wanted to get below 500 minutes but I wasn't able to with the AI's advice.",0.26875,0.425,0.9,2
+It was often in line with my thoughts so I chose to follow it.,0.0,0.0,1.2,2
+The strategy made sense. After a few rounds where the advice seemed accurate I decided to trust the AI more and more.,0.30000000000000004,0.43333333333333335,1.4,1
+I chose to follow the advice because It is essential to manage my charge carefully during my journey.,-0.05,0.65,0.6,3
+The advice was always correct.,0.0,0.0,1.1,1
+"Since it was what I was pretty much going to do on my own, I just shaved 2 to 3 minutes of the suggestion and it worked well for the AI rounds.",0.35000000000000003,0.7333333333333334,1.5,3
+I wanted to see how i would perform alone,0.0,0.0,0.4,2
+I choose to incorporate the advice in to my strategy because it helped me to save enough time,0.0,0.5,1.6,3
+Because from my calculations the advice was a genuine one,0.4,0.5,0.5,1
+When I thought i knew a better strategy.,0.5,0.5,0.0,1
+I didn't do well on the first rounds so thought I might as well try the AI advice. It worked so I continued to follow it.,0.25,0.3333333333333333,2.1,2
+I the advice aligned with my perception of the charge I would need,0.0,0.0,1.4,2
+it helped travel faster,0.0,0.0,2.8,1
+I did not notice the advice the 1st time but I did the second time and took the advice,0.0,0.0,0.0,1
+When I devised my own pattern but failed,0.04999999999999999,0.65,0.1,1
+"I saw that is was consistently reliable and it made sense, so I chose to follow the advice completely. ",0.175,0.325,3.5,3
+it was simple to follow and gave a better understanding of the game,0.033333333333333326,0.41904761904761906,1.5,2
+"Following the advice actually allowed me to do better than my initial strategy of minimizing recharges. It worked repeatedly, hence I thought there was value in the rationale and decided to follow it.",0.125,0.175,3.4,1
+didnt trust advice,0.0,0.0,0.0,2
+I chose to incorporate the advice into my strategy because I realized it was good and it would help,0.7,0.6000000000000001,0.3,2
+30 minute charging start up cost,0.0,0.0,1.5,2
+I chose the AI advice because I was confident that it knew better than me in this scenario.,0.5,0.6666666666666667,2.1,2
+I did not notice the advice,0.0,0.0,4.4,1
+I needed more tactics to my strategies.,0.5,0.5,1.9,2
+i believe in my strategy,0.0,0.0,0.3,2
+I used the advice that was provided,0.0,0.0,1.2,3
+,,,1.3,1
+I had a better strategy,0.5,0.5,1.0,3
+i corporate,0.0,0.0,0.7,3
+the rationale provided by AI was very logical and applicable,0.325,0.325,2.1,3
+"Charging is faster when the battery is low and slower when it’s high. By waiting until my battery is lower, i can take advantage of faster charging times. Also, Planning my recharges to cover multiple stops can help me maintain a smoother and more continuous journey, avoiding frequent interruptions.",0.152,0.32799999999999996,3.9,1
+i trusted the strategy,0.0,0.0,2.6,3
+I figured it understood the objective better than me.,0.25,0.3,0.8,1
+The rationale always made sense to me and showed me how I should be thinking about decisions and framing my thought process.,0.0,0.0,2.7,3
+"I didn't know if I could trust the advice completely. Meaning, I wasn't sure if it was a trick. So, I added a little bit of charging time - over and above - the advice time. If I had listened 100% to the advice, maybe I would have won more. So, that's on me for not listening 100%, although, I just could not push myself to t rust it fully. Adding a little more time felt more comfortable to me both times, but then, of course, I felt foolish for not trusting the advice more (both times!) when I saw that it was trustworthy.",0.275,0.518888888888889,1.15,3
+"It worked out very well the first round, so I followed the advice the rest of the game",-0.037500000000000006,0.3583333333333333,2.75,2
+I saw that it worked better than the rounds where I didn't have or use the advice (better score using the advice).,0.5,0.5,3.3,3
+"Noticing how badly I was doing at first, taking too much time per round, I soon realized that my strategy was not saving time or practical to keep continuing.",-0.11249999999999996,0.4,1.75,2
+I struggled so decided to listen but still failed.,-0.5,0.3,0.0,1
+I figured it can't hurt,0.0,0.0,2.45,3
+I thought maybe it would have a better strategy than me since I wasn't doing so well in the beginning.,0.5,0.5,2.1,2
+It was when I wasn't sure it was any different or better than a different strategy that I was already employing.,0.25,0.6472222222222223,2.3,1
+The advice was what I intended to do if the advice had not been given.,0.0,0.0,3.35,1
+The advice was logical and made the most sense to use it.,0.375,0.375,0.95,2
+I chose to incorporate the advice because the rationale and the logic behind it was sound after giving it due consideration and thought.,-0.041666666666666664,0.4916666666666667,3.4,3
+It failed me miserably and was horribly inefficient on one round and I felt it was doing the same on the next.,-0.45,0.47083333333333327,2.25,3
+I noticed how the AI was calculating what to charge to and that they didn't do any unnecessary extra charging by even 1%,-0.2,0.5,3.4,3
+I thought I would give it a try because I was not doing well on my own (I didn't think the numbers I was getting were accurate) so what could it hurt.,0.5,0.8166666666666667,1.9,3
+I was already going to do that anyway,0.0,0.0,0.2,2
+"I had not thought of it, and it worked very well when I tried it the first time. ",0.225,0.31666666666666665,4.1,1
+It worked to get the maximum bonus the first few times.,0.024999999999999994,0.21666666666666667,3.7,2
+It was helpful when I first tried it so I continued to use it throughout the game.,-0.07500000000000001,0.3666666666666667,2.85,1
+What did I have to lose? I was bombing on my own. It couldn't hurt.,0.6,1.0,1.7,3
+If I thought the charge was plenty,0.0,0.0,0.6,1
+I think that the AI advice would be more helpful to me than harmful. I felt that it had a better idea than me on how far I would be able to make it based on the charge I had left.,0.32,0.525,3.05,3
+no particular reason. I just wanted to try it my way.,-0.08333333333333333,0.3333333333333333,2.75,2
+"I was open to seeing the AI advice and followed closely which gave me great results the first time. The second time, due to the confidence of the previous results, I followed the advice blindly.",0.03690476190476192,0.3988095238095238,1.4,2
+I felt like it was good advice to follow.,0.7,0.6000000000000001,1.9,2
+I tried to guess that the extreme would not happen and changed slightly because of that.,-0.14583333333333331,0.5833333333333334,2.65,3
+"I noticed the advice given by the AI to be quite good, It seemed on average just getting by the bare minimum charge is what should be strived for since having a lower charge meant faster charging and less time spent at the stops.",0.06666666666666668,0.25333333333333335,3.5,3
+I was trying to do it myself to check if can perform better than AI.,0.5,0.5,1.55,2
+it was a good idea but situational and not always feasible,0.7,0.6000000000000001,0.75,1
+I checked how much time charging would cost just covering one segment versus charging enough to cover two segments.,0.1,0.35,2.65,1
+I always tried to follow the advice.,0.0,0.0,1.35,1
+The advice made sense and it seemed to work.,0.0,0.0,3.1,3
+"Checking the time, traffic, and the remaining battery, I took different initiative. ",0.0,0.6,0.95,2
+"I wanted to save as much time as possible, so I squeezed the margins.",0.1,0.6,1.55,3
+Sometimes I just felt like I would make a better call than the advice.,0.5,0.5,0.0,2
+Just went by my own intuition.,0.6,1.0,0.75,3
+was focused on the task and didn't notice advice,0.0,0.0,1.9,2
+I figured it would be more correct than me just guessing the answer,0.5,0.5,0.4,2
+I like to be risky and push my luck sometimes.,0.0,0.0,0.4,2
+"I did use the advice, sometimes just by tweaking the percentage a point or two.",0.0,0.0,1.5,3
+Because I thought it could help to make wise decisions.,0.7,0.9,2.1,3
+I already had an idea of how I was going to go about it so the advice wasn't all the useful to my strategy.,0.3,0.0,2.35,1
+It enabled me to escape the penalty charges on low battery level.,0.0,0.3,0.3,2
+I figured it must be there for a reason!,0.0,0.0,2.25,1
+"If I felt like my strategy would be faster I didn't listen to the AI, but sometimes it taught me a better strategy",0.5,0.5,1.4,1
+"Since it worked for the first round with advice, I felt it would probably work for the second.",0.016666666666666663,0.24444444444444446,2.1,2
+Because it gave me good advice and get a little better understanding,0.33749999999999997,0.5333333333333333,1.5,3
+i basically followed my instinct and the advice,0.0,0.0,0.3,2
+The advice wasn't that important,0.4,1.0,1.9,1
+i followed it but not always,0.0,0.0,0.0,1
+I thought the advice in some instances was the better option but other times I thought it was best to push my luck,0.4583333333333333,0.39166666666666666,1.3,1
+rationale and maths,0.0,0.0,0.0,1
+"Trusted in the AI, it helped the first time so I continued using it.",0.25,0.3333333333333333,2.45,1
+"I did pretty poorly Rounds 1&2 because I was overly cautious and overfilled. When I took a chance on the AI advice, I did much better Rounds 3&4. Also, it provided an easy pattern to follow, which was to charge small and often.",0.10666666666666666,0.6666666666666667,3.15,2
+I did,0.0,0.0,0.7,2
+I made guesses about how much charge I would actually need based on the information given,0.1,0.15000000000000002,0.0,2
+It only made sense to fill up fully at first,0.125,0.6666666666666666,0.8,2
+I can do the math myself,0.0,0.0,1.55,2
+The advice were basically right,0.2857142857142857,0.5357142857142857,0.4,2
+because i calculated the time and battery i needed and found out i was good to follow the advise the AI provided,0.7,0.6000000000000001,1.0,2
+Not all that positive to my sometimes,0.22727272727272727,0.5454545454545454,1.5,3
+i incorporated the advice into my strategy,0.0,0.0,1.5,3
+It was the better course of action,0.3,0.3,1.15,2
+My strategy was different from the one from the advice.,0.0,0.6,1.4,3
+"The advice made me better understand how to try and minimize my charging time instead of trying to charge the most I can to get more of a bonus, which worked!",0.5416666666666666,0.5,1.5,1
+I followed the strategy because it made very clear sense. When I followed it I saw it worked great and it helped me to make similar choices in future games.,0.2325,0.44333333333333336,2.3,2
+It seemed to work in reducing my time,0.0,0.0,3.0,2
+"I realized it was just telling me to charge enough to get to the next stop, so I ignored it at least once when I wanted to combine trips.",-0.09999999999999999,0.3,2.95,2
+i thought i had a better strategy,0.5,0.5,0.0,2
+it made sense to me so i actually incorporated it into my strategy,0.0,0.1,0.4,2
+I choose to incorporate the advice because it made my strategy better,0.5,0.5,2.25,1
+I wanted to use mine,0.0,0.0,0.0,1
+the help was not that important,0.4,1.0,0.0,3
+I INCORPORATED THE ADVICE BECAUSE IT WAS QUITE ACCURATE AND CORRECT. ALSO WHEN I INCORPORATED IT THE FIRST TIME IT WORKED. I ALSO DID MY CALCULATIONS AND THE ADVICE ALIGNED WITH MY CALCULATIONS,0.32500000000000007,0.4833333333333334,1.55,1
+I just decided to follow the advice and noticed it worked for me,0.0,0.0,2.3,3
+Because the idea is progressive and it saves me time,0.0,0.0,4.1,2
+It seemed trustworthy and helpful,0.0,0.0,1.4,1
+"Considering I didn't do so well in the previous rounds, I decided to follow the advice to see how I would fair.",0.26666666666666666,0.5333333333333333,0.4,1
+I noticed it was the best for managing travel time,1.0,0.3,1.9,3
+"I was trying to use less energy on the 5th one, but that was a mistake.",-0.16666666666666666,0.06666666666666667,2.45,3
+I choose to follow because I was doing poorly first 2 rounds,0.25,0.3333333333333333,1.95,3
+I needed more help and strategies after two rounds of game,0.04999999999999999,0.45,2.4,2
+it took into considerations the journey,0.0,0.0,1.5,3
+I choose to incorporate the advice because I felt the AI would know better and would give a better outcome.,0.5,0.5,1.5,1
+The suggestions made logical sense so I used the advice.,0.25,0.25,2.25,2
+"Well, I wasn't doing well on my own, so thought I'd take the advice.",0.6,1.0,1.3,1
+I felt like it was good advice.,0.7,0.6000000000000001,2.6,2
+I trusted the AI calculations.,0.0,0.0,0.2,2
+"The first time I just wanted to see how well it worked, and since it worked well, I did it again.",0.25,0.3333333333333333,3.2,3
+The advice made sense for the scenarios so I choose to follow the suggestions.,0.0,0.0,0.2,1
+I mostly followed the AI advice except when it deviated from my previous strategy that had worked pretty well for me,0.19444444444444445,0.5555555555555555,3.8,2
+I didnt have a good strategy and it made sense.,0.7,0.6000000000000001,1.7,1
+"I'm not sure, just my feeling at the time",-0.25,0.8888888888888888,2.8,3
+It worked and made sense when taking into account the longer charging time for higher numbers and the automatic 30 minute addition everytime you needed to charge.,0.25,0.5,3.9,3
+"It was early on and i realized my strategy to charge every time to just the bare minimum to pass was not working within the point system, so I was all ears for the advice. I did a bit of math on the time and noticed it would get me with in the .02 & .04 bonus range, so I thought it was a good start and to refine from there.",0.2833333333333333,0.3333333333333333,2.4,2
+"I mostly thought the advice made sense, but I thought in some cases charging more than 50% would save time at the next stop.",0.3333333333333333,0.3333333333333333,1.8,1
+I followed the advice because I assumed the AI would know more about number strategy and estimations than I would.,0.5,0.5,1.7,3
+If the advice seemed to make sense I followed it.,0.0,0.0,2.8,3
+I noticed that the amount of charge given by the advice matched the amount of charge I needed to reach the next stop if traffic was at the maximum. This sounded like sound advice to me.,0.2,0.2,3.1,3
+"Again, it was what I was already doing anyway so when it was there, I followed it.",0.0,0.0,2.85,3
+What made me choose whether or not to incorporate the advice into my strategy was how useful it was in the situation I was in at the time.,0.3,0.0,0.4,1
+Based on not having enough charge to make it,0.0,0.5,1.2,2
+I thought the AI could help because I was failing before. I ended up failing regardless.,0.0,0.0,0.4,2
+depended on whether I believed the ai results,0.0,0.0,0.4,1
+made the quest make more sense,0.5,0.5,1.15,2
+This seemed like the best strategy to take in order to get to the destination in the fastest time possible.,0.5,0.65,2.85,3
+"I had little experience with the game and hadn't thought of my own strategy, so I decided to try the AI's strategy.",0.004166666666666652,0.6333333333333333,1.2,1
+"whether it seemd good or not. your 50% and below was a little off. 40-50 each % increased by 3 min. this continues to about 75ish so 75 was actually viable. Not sure the per minute on the lowest levels (its cumbersome to check every number individually, I tried using the arrow keys to move the slider one a t a time but didnt work)",0.05249999999999999,0.49777777777777776,2.2,1
+"Numbers don't lie and when I saw that the advice was helping me, I decided to incorporate it each time.",0.0,0.0,1.95,1
+"If the advice recommended only charging enough for one stop, I would consider the stop after and whether I thought I'd lose more time by stopping to charge twice or charging all at once at a slower rate.",0.16666666666666666,0.6666666666666666,2.85,3
+"I believe I followed the advice mostly, if maybe going over the charge it asked me to make, just in case.",0.5,0.5,2.1,1
+I was not doing well until I took the AI strategy and then understood what it was doing.,0.0,0.0,2.3,2
+I figured the advice would be helpful since I wasn't doing too well beforehand.,0.0,0.0,1.0,1
+"I used the advice, because I was having a hard time keeping the time low. The advice rounds helped me do better in future rounds.",0.05208333333333333,0.36666666666666664,2.65,1
+"Sometimes it made more sense to charge more to cover the next 2 segments, rather than stop at every stop which added an extra 30 minutes.",0.25,0.275,3.2,2
+I was open to the suggestions,0.0,0.5,3.3,3
+"I was open to trying different strategies. Since my first strategy (getting extra charge more than once) did not work, I thought it would be a good to listen to its suggestion of doing the exact amount for each trip.",0.24285714285714285,0.4119047619047619,1.95,1
+"I chose to incorporate it because I was not doing well at the beginning and figured it knew better than I did. I was proven right by success in the round in which I followed its advice, so I continued to follow it.",0.22142857142857142,0.3589285714285714,3.7,2
+I tried to be a little more aggressive with the charging so I could charge less on subsequent stops.,0.036458333333333336,0.2791666666666667,2.35,3
+"I was not doing well without the advice, so I had nothing to lose.",0.0,0.0,1.15,3
+I thought it would help me,0.0,0.0,3.25,3
+"I mostly followed it to the letter but was going in that direction before the advice came up, figuring it's safer to never hit the penalty even if my total reward went down.",0.11481481481481481,0.512962962962963,3.95,3
+"It was a lot easier for me to make a decision, and the advice usually led to better results.",0.125,0.375,2.45,2
+The first time I thought I would try the advice since I hadn't done well the previous two times.  The previous two times I had been trying to optimize how little I charged while the advice went for more charges for shorter times.  And this ended up being a better strategy so I followed this for the second round as well.,0.06614583333333335,0.3208333333333333,3.3,3
+"The AI was able to make decisions more quickly than I can, so I followed its advice.",0.4444444444444444,0.5416666666666666,1.8,1
+I incorporated the advice into my strategy because I noticed that the arrival time was shorter.,0.0,0.0,2.65,3
+I choose to incorporate the advice into my strategy because it was better than my strategy.,0.5,0.5,1.5,3
+The first few times all worked.,0.024999999999999994,0.21666666666666667,0.9,1
+"I was already charging to full at the start anyway, because the car always started at 0%.",0.35,0.55,1.6,2
+"I only switched things up the last few rounds, since there wasn't any advice available and I had to figure out what would work best for me. ",0.24,0.3733333333333334,2.25,1
+"I realized after I followed the AI, it yielded much better results than the initial strategy I tried.",0.25,0.25,3.35,1
+"I made my own decision, it just happened to line up with the AI.",0.6,1.0,2.6,1
+"I did follow it almost exactly. I was mostly curious if it would do better than my own guesses, which erred on the side of caution.",0.3125,0.6875,1.9,3
+By looking at the information I was provided and my gut feeling,0.0,0.0,1.15,2
+Forgot to look for advice,0.0,0.0,2.7,1
+I chose to incorporate the advice given when it was given and used this later on when formulating my own opinion.,0.3,0.5,2.1,3
+I tried it on the first one and saw that they made sense and got me there fast so I did it again for the second,0.15,0.3111111111111111,3.35,3
+"I decided to follow it exactly the first round it was given, and I performed very well that round, so I also decided to follow the advice in the future.",0.049999999999999996,0.3013888888888889,3.05,3
+I could not produce an answer that was low enough for a bonus so I  had nothing to lose by following the advice of the AI.,0.0,0.3,1.5,3
+I didn't know what i was doing for the first few rounds so I gave the AI a shot and it worked. I kept doing it after that,0.024999999999999994,0.21666666666666667,3.0,3
+"I decided since you guys made the game, that the advice could either barely get me the bonus or be really efficient. I decided to fully commit to the advice and I was rewarded with the best bonus for following the advice.",0.16999999999999998,0.22000000000000003,2.8,3
+It helped me learn how to better manage my time and stops.,0.5,0.5,2.0,1
+"The advice was similar to what I was going to do myself, so I felt confident to follow it.",0.25,0.6166666666666667,1.35,2
+It made sense,0.0,0.0,1.45,2
+I thought I had enough charge sometimes.,0.0,0.5,2.3,1
+It had a similar strategy to what I was doing.,0.0,0.4,3.25,3
+Using math to see how the time would affect the game,-0.4,0.4,0.6,1
+It made sense and the task was difficult,-0.5,1.0,0.6,2
+I figured it knew what it was doing,0.0,0.0,3.0,2
+I was struggling to find the groove before the advise so I used it to positive effect.,0.22727272727272727,0.5454545454545454,1.15,2
+"I thought that the advice could calculate better than I could, so I generally followed it.",0.275,0.5,0.6,2
+"When I followed the advice, I shortened the length of the trip",0.0,0.0,3.55,1
+it worked in reducing time spent,-0.1,0.1,3.7,1
+"I followed the advice when it matched my strategy, which was most of the time. But overall, it didn't affect my choices as the advice provided was obvious and not very strategic from what I could assess. ",0.1,0.325,0.8,1
+sometimes I thought I was thinking ahead more than the advice was,0.5,0.5,1.75,3
+It would not matter.,0.0,0.0,0.3,2
+"I thought there was a better strategy because I always assume a full tank is best. However, thinking the instructions through, I realized I was wrong. I did incorporate the strategies during the advice rounds, but I also decided to """"experiment"""" too. ",0.3375,0.5625,1.75,2
+I decided to go with the advice the first round it was given and I came under 500 minutes to finish. I thought I had an excellent chance of doing that again if I followed it again.,0.35000000000000003,0.5777777777777778,1.5,3
+The feel of it,0.0,0.0,1.95,2
+I tried to incorporate the AI's strategy as it obviously worked well and brought my times in under 500 minutes which I was not able to do in the prior rounds.,-0.08333333333333333,0.375,3.05,3
+I tried but wasn't for sure how much charge to do at the stops,0.35,0.5444444444444444,0.2,1
+I genuinely did not see it. Totally forgot it would pop up.,0.2,0.625,2.55,1
+I generally trusted the math of the AI to pick the most advantageous route.,0.275,0.5,0.8,2
+I chose to take the advice since I was not doing well.,0.0,0.0,0.75,3
+Gut feeling.,0.0,0.0,0.2,1
+The calculations made sense and added up,0.0,0.0,1.15,1
+It made sense to me.,0.0,0.0,1.35,2
+When I thought it was reasonable I followed,0.2,0.6,1.4,3
+Doing the math to make within the time limit for the bonus.,0.0,0.0,2.4,1
+The advice helped me so I kept following it.,0.0,0.1,3.3,3
+I studied whether the advice made sense based on the pre existing math calculations. If it was a positive indicator I used it.,0.22727272727272727,0.5454545454545454,2.55,3
+I would say I followed it as well as I could understand it.,0.0,0.0,1.65,1
+i looked at how much charge i had left and made the choice.,0.1,0.1,0.0,1
+I didn't see much difference and felt my own strategy would work also.,0.4,0.6,0.0,1
+The AI seemed to know what it was doing.,0.0,0.0,0.9,2
+The advice matched the line of thinking that I was following.,0.0,0.1,2.9,2
+I was already doing what the AI said on my own.,0.6,1.0,2.7,1
+The AI seem to know what it was talking about.,0.0,0.0,0.75,1
+The advice was good and made me preform much better.,0.6,0.55,2.65,1
+I considered it but i would always double check myself to make sure it was right.,0.2619047619047619,0.4748677248677248,3.95,1
+I wanted to full up more.,0.425,0.525,1.7,2
+,,,,1
+I tried to follow the advice,0.0,0.0,0.4,2
+I made the right choice following it.,0.14285714285714285,0.31785714285714284,0.0,3
+it seemed the better option to choose advice given,0.5,0.5,0.4,1
+"My own strategy, up to that point, was taking too much time and I was not getting any bonuses. I thought that the AI strategy might help me achieve a score that would be bonus-worthy.",0.4,0.6,2.2,2
+If if fit the situation needed,0.4,0.4,0.3,1
+Because I felt that it was useful.,0.3,0.0,0.75,2
+"I thought that it seemed like a good idea, so I listened to the advice.",0.7,0.6000000000000001,0.4,1
+It conformed with my thinking anyway.,0.0,0.0,3.55,2
+It was calculating the odds the same way I would.,0.0,0.125,1.75,2
+"I tried it for the first round it was provided and it was successful, so I continued to look to it for assistance, but didn't always follow it exactly. ",0.2625,0.48333333333333334,3.7,3
+"I took it's advise 100% because it looked completely accurate. I always double checked it, though. I expected to get tricked after awhile. It also took most of the fun out of the game.",0.11666666666666668,0.35555555555555557,4.1,3
+"as soon as I won using the ai's advice, i tried to stick to it as much as possible.",0.0,1.0,1.55,1
+Because it doesn't matter how I charge I still wont get there in under 500,0.0,0.0,0.0,1
+I made sure to not run out of charge on the road,0.5,0.8888888888888888,1.5,1
+I thought the advice would have some insight into the approximate traffic on the next portion.,-0.2,0.3,0.0,2
+I saw in Rounds 1 and 2 that I was not performing optimally.  I took the chance on the AI and went all in on its advice.,0.0,0.0,2.7,3
+I didn't really have a method.,0.2,0.2,0.2,3
+I trusted it,0.0,0.0,1.15,3
+if it did not seem accurate.,0.4000000000000001,0.6333333333333334,1.0,1
+"My gut, really",0.2,0.2,1.0,2
+"I tried it initially to see whether or not the advice was sound and, when it proved to be, I relied on it heavily.",0.06666666666666667,0.3,2.25,3
+The AI matched my strategy,0.0,0.0,4.1,3
+To attempt and see if it improves my time.,0.0,0.0,0.8,1
+Failing in the sort distance rounds,0.0,0.0,1.4,2
+I figured the AI computed the most effective math.,0.55,0.65,2.65,3
+I assumed the AI was smarter than I was.,0.0,0.0,1.5,2
+I chose to incorporate the AI strategy because it was correct both times that I used it.,0.0,0.0,2.85,2
+It made sense to not charge to 100% the first time.,0.25,0.3333333333333333,2.85,2
+The advice made sense within the rules of the game,-0.4,0.4,3.4,3
+I chose the advice because it took time to determine how much time to charge in between stops.,0.2,0.2,0.8,1
+i knew it would help me,0.0,0.0,0.4,2
+"The first time, I was not sure the advice was useful so I deviated on my own path for the first couple of stops. The second time, I fully trusted the advice because I noticed in the last round, it was closer to the limit.",0.11875,0.3777777777777778,2.05,3
+It was accurate.,0.4000000000000001,0.6333333333333334,2.35,3
+"The AI tool has already """"analyzed"""" the route and anticipated the potential delay. I trusted the advice, but made my decision on how much to charge.",0.1,0.6,1.0,2
+The advice that was provided was logical and closely followed to the pattern of thought that was beginning to emerge in my head,0.25,0.25,1.35,1
+"Sometimes, I would do the math in my head and it sounded good, other times it seemed like I could do better on my own",0.41874999999999996,0.61875,1.4,2
+I would assess whether it seemed to make sense and for the most part it did so I would follow the advice.,0.5,0.5,2.1,2
+I did follow the advice.,0.0,0.0,0.6,1
+Try to my knowledge,0.0,0.0,0.2,1
+I chose to follow the advice because  it helped me be succesful in the game.,-0.4,0.4,0.6,1
+i tried to use my way and justify it with the AI advice,0.0,0.0,1.4,2
+It didn't seem to make sense.,0.0,0.0,2.15,1
+excited to learn that I could stop and recahrge with the level traffic shown,0.375,0.75,0.2,3
+the advice made sense according to my calculations.,0.0,0.0,1.85,2
+I felt I followed the advice the first time but the results wasn't as good.,0.475,0.4666666666666667,0.8,2
+i followed it,0.0,0.0,1.95,3
+Was already planning on working the advice bits in when AI gave me a more specific way to do it,0.25,0.3125,1.0,1
+"I wanted to see the AI's approach and if it improved my score than I based my next choices off of that, and it did help.",0.0,0.0,3.3,3
+I tried to follow the advice and it also failed me. Understanding exactly how much time went off would have served me better in the game.,0.009999999999999998,0.32999999999999996,0.3,2
+I got greedy to save time.,0.0,0.0,2.65,1
+,,,2.5,1
+I alway followed the advice because I felt like the game was beating me at that point.,-0.4,0.4,0.2,1
+Because it seemed like good advice.,0.7,0.6000000000000001,0.4,2
+Wanting to go one more extra exit before charging in hopes that the distance and time gained was offset by the charging time at the next exit.,0.16666666666666666,0.19999999999999998,2.35,3
+"Honestly, I chose to follow the advice because it seemed like the best option as I did not do so well in the last round.",0.35000000000000003,0.41666666666666663,3.9,2
+"If it seemed wrong, I didn't follow it.  See previous explanation. ",-0.3333333333333333,0.5333333333333333,0.9,3
+"When compared to the alternative options, the advice given yielded the most effective result. This was apparent since several round had the same travel times and traffic making comparing strategies easy. ",0.19761904761904764,0.42976190476190473,2.7,2
+I didn't use the advice because I was learning the game for myself and started to understand it better. If i was just blindly following the advice I don't think I would have learned as fast. I was limit testing figuring out what works and doesn't the first two games.,0.11000000000000001,0.38666666666666666,2.65,1
+I was confused at first at how best to utilize the charge and I also did not realize the stop I was on was the stop we were talking about.,0.2833333333333333,0.4444444444444444,2.7,2
+"I already had a game plan. Usually, it aligned with the advice, but I wanted to just go with my plan.",-0.325,0.325,2.25,3
+The AI didn’t combine more than one stop so I thought it a better strategy to combine them instead of listening to the AI.,0.5,0.5,2.95,3
+I thought I could squeeze out more time if i modified the numbers,0.5,0.5,2.3,3
+I tested the advice and it appeared to work.,0.0,0.0,4.1,1
+I think that AI would understand the mechanics of traffic and charging times more accurately than I can.,0.45000000000000007,0.5666666666666667,2.35,1
+The confident in the AI,0.5,0.8333333333333334,2.35,3
+"I did the math on it and saw that it wouldn't leave me stranded, so it seemed worth trying.",0.3,0.1,3.6,3
+"After changing my strategy a few times, I realized that I was not getting the times I wanted. I followed the AI advice to see how much better it was and it turned out to be better",0.26666666666666666,0.3666666666666667,1.95,2
+sometimes it was worth looking ahead,0.3,0.1,1.75,2
+I choose to because it seemed more reliable than guessing myself.,0.5,0.5,0.8,1
+It seemed very logical and guided me. I wasn't as familiar with the game and then realized what I was doing wrong once the AI started advising me.,-0.05000000000000002,0.53125,2.5,2
+Depending on what I calculated and where I was at percentage wise.,0.7,0.9,0.0,1
+I would do the math myself and compare.,0.0,0.0,3.0,1
+I did because it seemed to work.,0.0,0.0,2.65,1
+I didn’t trust the ai because the advice wasn’t always helpful. There was one round when I followed it but the advice on how much to charge wasn’t that helpful.,0.0,0.30000000000000004,0.2,2
+I was doing what the advice told me to do anyway so I always went along with the advice,0.0,0.0,3.45,1
+"As i stated earlier, it was aling the lines of my natural thought",0.05,0.45,0.6,2
+it made sense and it worked,0.0,0.0,1.55,2
+I trusted the researchers and the explanation made a lot of sense to me,0.0,0.0,3.7,3
+"The advise was helpful for the shorter trips, but it did not really translate when trying to solve the long trip scenarios ",-0.07500000000000001,0.30000000000000004,2.9,3
+The advice was very helpful so I took it and made my way this way,0.2,0.3,0.2,2
+When i did no do well on the first attempts,0.25,0.3333333333333333,1.35,3
+"Used advice, but took off some percentage to save time ",0.0,0.0,2.5,3
+I did incorporate the advice into my strategy.,0.0,0.0,1.55,2
+Based on the feedback from previous charged point,-0.16666666666666666,0.16666666666666666,0.0,2
+The advice followed the thought process I had already had.,0.0,0.0,0.6,1
+I figured that the advice would help me change my strategies which took effect the next few rounds,-0.1,0.05,3.1,2
+The AI really helped me charged when necessarily.,0.1,0.6,1.5,3
+Ok first would not at all consider that AI as a previous answer said. I found it's suggestion logical and I knew I hadn't fully found the best strategy so decided to try it out and I think it helped me figure out how to do ok.,0.3888888888888889,0.3416666666666666,3.7,3
+"When it worked the first time, I decided to follow its advice because my strategy wasn't working.",0.25,0.3333333333333333,2.65,3
+When I thought it would take longer to follow it.,0.0,0.0,0.95,3
+The results were better than my own decisions.,0.55,0.75,1.15,3
+It was difficult to incorporate the strategy in the long rounds.,-0.275,0.7,2.7,3
+bonus,0.0,0.0,1.9,3
+using a combination of tactics,0.0,0.0,2.6,1
+"I was having a hard time getting under 500 minutes, so any advice is helpful. ",-0.2916666666666667,0.5416666666666666,2.85,1
+the rationale behind was positive,-0.08636363636363638,0.6227272727272727,1.5,3
+,,,0.0,1
+Sometimes I wanted to play it a little risky and gamble with not having enough charge to make it in maximum traffic.,-0.09375,0.5,1.55,3
+nothing,0.0,0.0,0.2,1
+It was pretty good advice.,0.475,0.8,3.5,1
+"I thought it would be wise to and also, the advices were on point.",0.7,0.9,1.55,2
+"Initially I had """"range anxiety"""" and wanted buffer the first few rounds.  After reading the rationale, I charged only enough to meet the max actual traffic times.",0.008333333333333331,0.33888888888888885,3.35,2
+"N/A, I followed the advice",0.0,0.0,3.1,2
+Because when i tried the advice it significantly lowered my time.,0.375,0.875,2.65,2
+I would have done that anyways,0.0,0.0,0.0,2
+it was a good advice,0.7,0.6000000000000001,0.8,1
+Depended on whether I had a different strategy for that round.,-0.1,0.5,3.75,2
+The advice seemed rational to me.,0.0,0.0,3.4,2
+To get a judgment on accuracy the first time and then based on results for the second round.,0.016666666666666663,0.24444444444444446,2.65,1
